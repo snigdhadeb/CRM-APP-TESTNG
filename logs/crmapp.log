@@ -1,0 +1,123 @@
+2019-12-31 00:43:45 LoginTest [INFO] Chrome Browser is initiated
+2019-12-31 00:45:30 LoginTest [INFO] Chrome Browser is initiated
+2019-12-31 00:45:54 LoginTest [INFO] Chrome Browser is initiated
+2019-12-31 00:46:13 LoginTest [INFO]  xpath: //span[contains(text(),'Log In')]] is clicked
+2019-12-31 00:46:15 LoginTest [INFO]  name: email] is populated with snigdha98.3@gmail.com
+2019-12-31 00:46:15 LoginTest [INFO]  name: password] is populated with XiomiMi@1
+2019-12-31 00:46:15 LoginTest [INFO]  xpath: //div[@class='ui fluid large blue submit button']] is clicked
+2019-12-31 00:47:58 LoginTest [INFO] Chrome Browser is initiated
+2019-12-31 00:48:18 LoginTest [INFO] Chrome Browser is initiated
+2019-12-31 00:48:32 LoginTest [INFO]  xpath: //span[contains(text(),'Log In')]] is clicked
+2019-12-31 00:48:33 LoginTest [INFO]  name: email] is populated with snigdha98.3@gmail.com
+2019-12-31 00:48:33 LoginTest [INFO]  name: password] is populated with XiomiMi@1
+2019-12-31 00:48:34 LoginTest [INFO]  xpath: //div[@class='ui fluid large blue submit button']] is clicked
+2019-12-31 00:56:53 HomePageTest [INFO] Chrome Browser is initiated
+2019-12-31 00:57:09 HomePageTest [INFO]  xpath: //span[contains(text(),'Log In')]] is clicked
+2019-12-31 00:57:10 HomePageTest [INFO]  name: email] is populated with snigdha98.3@gmail.com
+2019-12-31 00:57:10 HomePageTest [INFO]  name: password] is populated with XiomiMi@1
+2019-12-31 00:57:10 HomePageTest [INFO]  xpath: //div[@class='ui fluid large blue submit button']] is clicked
+2019-12-31 00:57:22 NewContactPageTest [INFO] Chrome Browser is initiated
+2019-12-31 00:57:33 NewContactPageTest [INFO]  xpath: //span[contains(text(),'Log In')]] is clicked
+2019-12-31 00:57:34 NewContactPageTest [INFO]  name: email] is populated with snigdha98.3@gmail.com
+2019-12-31 00:57:34 NewContactPageTest [INFO]  name: password] is populated with XiomiMi@1
+2019-12-31 00:57:34 NewContactPageTest [INFO]  xpath: //div[@class='ui fluid large blue submit button']] is clicked
+2019-12-31 00:57:37 NewContactPageTest [INFO]  xpath: //div[@id='main-nav']//span] is clicked
+2019-12-31 00:57:39 NewContactPageTest [INFO]  xpath: //button[text()='New']] is clicked
+2019-12-31 00:57:40 NewContactPageTest [INFO]  name: first_name] is populated with Will
+2019-12-31 00:57:40 NewContactPageTest [INFO]  name: last_name] is populated with Smith
+2019-12-31 00:57:41 NewContactPageTest [INFO]  xpath: //input[@placeholder='Email address']] is clicked
+2019-12-31 00:57:42 NewContactPageTest [INFO]  xpath: //input[@placeholder='Email address']] is populated with Will.Smith@yahoo.com
+2019-12-31 00:57:42 NewContactPageTest [INFO]  css selector: .ui.linkedin.button] is clicked
+2019-12-31 00:57:43 NewContactPageTest [INFO]  css selector: .ui.linkedin.button] is clicked
+2019-12-31 00:57:44 NewContactPageTest [INFO]  xpath: //div[@id='main-nav']//span] is clicked
+2019-12-31 00:57:56 LoginTest [INFO] Chrome Browser is initiated
+2019-12-31 00:58:12 LoginTest [INFO] Chrome Browser is initiated
+2019-12-31 00:58:29 LoginTest [INFO]  xpath: //span[contains(text(),'Log In')]] is clicked
+2019-12-31 00:58:30 LoginTest [INFO]  name: email] is populated with snigdha98.3@gmail.com
+2019-12-31 00:58:30 LoginTest [INFO]  name: password] is populated with XiomiMi@1
+2019-12-31 00:58:30 LoginTest [INFO]  xpath: //div[@class='ui fluid large blue submit button']] is clicked
+2019-12-31 01:07:49 HomePageTest [INFO] Chrome Browser is initiated
+2019-12-31 01:08:06 HomePageTest [INFO]  xpath: //span[contains(text(),'Log In')]] is clicked
+2019-12-31 01:08:06 HomePageTest [INFO]  name: email] is populated with snigdha98.3@gmail.com
+2019-12-31 01:08:06 HomePageTest [INFO]  name: password] is populated with XiomiMi@1
+2019-12-31 01:08:07 HomePageTest [INFO]  xpath: //div[@class='ui fluid large blue submit button']] is clicked
+2019-12-31 01:12:48 HomePageTest [INFO] Chrome Browser is initiated
+2019-12-31 01:13:06 HomePageTest [INFO]  xpath: //span[contains(text(),'Log In')]] is clicked
+2019-12-31 01:13:07 HomePageTest [INFO]  name: email] is populated with snigdha98.3@gmail.com
+2019-12-31 01:13:07 HomePageTest [INFO]  name: password] is populated with XiomiMi@1
+2019-12-31 01:13:07 HomePageTest [INFO]  xpath: //div[@class='ui fluid large blue submit button']] is clicked
+2019-12-31 01:13:19 NewContactPageTest [INFO] Chrome Browser is initiated
+2019-12-31 01:13:34 NewContactPageTest [INFO]  xpath: //span[contains(text(),'Log In')]] is clicked
+2019-12-31 01:13:35 NewContactPageTest [INFO]  name: email] is populated with snigdha98.3@gmail.com
+2019-12-31 01:13:35 NewContactPageTest [INFO]  name: password] is populated with XiomiMi@1
+2019-12-31 01:13:35 NewContactPageTest [INFO]  xpath: //div[@class='ui fluid large blue submit button']] is clicked
+2019-12-31 01:13:37 NewContactPageTest [INFO]  xpath: //div[@id='main-nav']//span] is clicked
+2019-12-31 01:13:38 NewContactPageTest [INFO]  xpath: //button[text()='New']] is clicked
+2019-12-31 01:13:40 NewContactPageTest [INFO]  name: first_name] is populated with Will
+2019-12-31 01:13:40 NewContactPageTest [INFO]  name: last_name] is populated with Smith
+2019-12-31 01:13:40 NewContactPageTest [INFO]  xpath: //input[@placeholder='Email address']] is clicked
+2019-12-31 01:13:42 NewContactPageTest [INFO]  xpath: //input[@placeholder='Email address']] is populated with Will.Smith@yahoo.com
+2019-12-31 01:13:43 NewContactPageTest [INFO]  css selector: .ui.linkedin.button] is clicked
+2019-12-31 01:13:43 NewContactPageTest [INFO]  css selector: .ui.linkedin.button] is clicked
+2019-12-31 01:13:44 NewContactPageTest [INFO]  xpath: //div[@id='main-nav']//span] is clicked
+2019-12-31 01:13:56 LoginTest [INFO] Chrome Browser is initiated
+2019-12-31 01:14:11 LoginTest [INFO] Chrome Browser is initiated
+2019-12-31 01:14:26 LoginTest [INFO]  xpath: //span[contains(text(),'Log In')]] is clicked
+2019-12-31 01:14:26 LoginTest [INFO]  name: email] is populated with snigdha98.3@gmail.com
+2019-12-31 01:14:26 LoginTest [INFO]  name: password] is populated with XiomiMi@1
+2019-12-31 01:14:26 LoginTest [INFO]  xpath: //div[@class='ui fluid large blue submit button']] is clicked
+2019-12-31 01:16:21 HomePageTest [INFO] Chrome Browser is initiated
+2019-12-31 01:16:36 HomePageTest [INFO]  xpath: //span[contains(text(),'Log In')]] is clicked
+2019-12-31 01:16:36 HomePageTest [INFO]  name: email] is populated with snigdha98.3@gmail.com
+2019-12-31 01:16:37 HomePageTest [INFO]  name: password] is populated with XiomiMi@1
+2019-12-31 01:16:37 HomePageTest [INFO]  xpath: //div[@class='ui fluid large blue submit button']] is clicked
+2019-12-31 01:18:22 HomePageTest [INFO] Chrome Browser is initiated
+2019-12-31 01:18:39 HomePageTest [INFO]  xpath: //span[contains(text(),'Log In')]] is clicked
+2019-12-31 01:18:39 HomePageTest [INFO]  name: email] is populated with snigdha98.3@gmail.com
+2019-12-31 01:18:40 HomePageTest [INFO]  name: password] is populated with XiomiMi@1
+2019-12-31 01:18:40 HomePageTest [INFO]  xpath: //div[@class='ui fluid large blue submit button']] is clicked
+2019-12-31 01:18:52 NewContactPageTest [INFO] Chrome Browser is initiated
+2019-12-31 01:19:05 NewContactPageTest [INFO]  xpath: //span[contains(text(),'Log In')]] is clicked
+2019-12-31 01:19:06 NewContactPageTest [INFO]  name: email] is populated with snigdha98.3@gmail.com
+2019-12-31 01:19:06 NewContactPageTest [INFO]  name: password] is populated with XiomiMi@1
+2019-12-31 01:19:06 NewContactPageTest [INFO]  xpath: //div[@class='ui fluid large blue submit button']] is clicked
+2019-12-31 01:19:09 NewContactPageTest [INFO]  xpath: //div[@id='main-nav']//span] is clicked
+2019-12-31 01:19:09 NewContactPageTest [INFO]  xpath: //button[text()='New']] is clicked
+2019-12-31 01:19:11 NewContactPageTest [INFO]  name: first_name] is populated with Will
+2019-12-31 01:19:12 NewContactPageTest [INFO]  name: last_name] is populated with Smith
+2019-12-31 01:19:12 NewContactPageTest [INFO]  xpath: //input[@placeholder='Email address']] is clicked
+2019-12-31 01:19:14 NewContactPageTest [INFO]  xpath: //input[@placeholder='Email address']] is populated with Will.Smith@yahoo.com
+2019-12-31 01:19:14 NewContactPageTest [INFO]  css selector: .ui.linkedin.button] is clicked
+2019-12-31 01:19:14 NewContactPageTest [INFO]  css selector: .ui.linkedin.button] is clicked
+2019-12-31 01:19:15 NewContactPageTest [INFO]  xpath: //div[@id='main-nav']//span] is clicked
+2019-12-31 01:19:27 LoginTest [INFO] Chrome Browser is initiated
+2019-12-31 01:19:41 LoginTest [INFO] Chrome Browser is initiated
+2019-12-31 01:19:54 LoginTest [INFO]  xpath: //span[contains(text(),'Log In')]] is clicked
+2019-12-31 01:19:54 LoginTest [INFO]  name: email] is populated with snigdha98.3@gmail.com
+2019-12-31 01:19:54 LoginTest [INFO]  name: password] is populated with XiomiMi@1
+2019-12-31 01:19:54 LoginTest [INFO]  xpath: //div[@class='ui fluid large blue submit button']] is clicked
+2019-12-31 01:21:59 HomePageTest [INFO] Chrome Browser is initiated
+2019-12-31 01:22:24 HomePageTest [INFO]  xpath: //span[contains(text(),'Log In')]] is clicked
+2019-12-31 01:22:25 HomePageTest [INFO]  name: email] is populated with snigdha98.3@gmail.com
+2019-12-31 01:22:25 HomePageTest [INFO]  name: password] is populated with XiomiMi@1
+2019-12-31 01:22:25 HomePageTest [INFO]  xpath: //div[@class='ui fluid large blue submit button']] is clicked
+2019-12-31 01:22:38 NewContactPageTest [INFO] Chrome Browser is initiated
+2019-12-31 01:22:50 NewContactPageTest [INFO]  xpath: //span[contains(text(),'Log In')]] is clicked
+2019-12-31 01:22:50 NewContactPageTest [INFO]  name: email] is populated with snigdha98.3@gmail.com
+2019-12-31 01:22:50 NewContactPageTest [INFO]  name: password] is populated with XiomiMi@1
+2019-12-31 01:22:50 NewContactPageTest [INFO]  xpath: //div[@class='ui fluid large blue submit button']] is clicked
+2019-12-31 01:22:52 NewContactPageTest [INFO]  xpath: //div[@id='main-nav']//span] is clicked
+2019-12-31 01:22:54 NewContactPageTest [INFO]  xpath: //button[text()='New']] is clicked
+2019-12-31 01:22:55 NewContactPageTest [INFO]  name: first_name] is populated with Will
+2019-12-31 01:22:55 NewContactPageTest [INFO]  name: last_name] is populated with Smith
+2019-12-31 01:22:56 NewContactPageTest [INFO]  xpath: //input[@placeholder='Email address']] is clicked
+2019-12-31 01:22:57 NewContactPageTest [INFO]  xpath: //input[@placeholder='Email address']] is populated with Will.Smith@yahoo.com
+2019-12-31 01:22:57 NewContactPageTest [INFO]  css selector: .ui.linkedin.button] is clicked
+2019-12-31 01:22:58 NewContactPageTest [INFO]  css selector: .ui.linkedin.button] is clicked
+2019-12-31 01:22:59 NewContactPageTest [INFO]  xpath: //div[@id='main-nav']//span] is clicked
+2019-12-31 01:23:09 LoginTest [INFO] Chrome Browser is initiated
+2019-12-31 01:23:22 LoginTest [INFO] Chrome Browser is initiated
+2019-12-31 01:23:34 LoginTest [INFO]  xpath: //span[contains(text(),'Log In')]] is clicked
+2019-12-31 01:23:35 LoginTest [INFO]  name: email] is populated with snigdha98.3@gmail.com
+2019-12-31 01:23:35 LoginTest [INFO]  name: password] is populated with XiomiMi@1
+2019-12-31 01:23:35 LoginTest [INFO]  xpath: //div[@class='ui fluid large blue submit button']] is clicked

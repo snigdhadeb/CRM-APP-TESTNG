@@ -1,0 +1,21 @@
+2019-12-30 02:39:30 HomePageTest [INFO]  xpath: //span[contains(text(),'Log In')]] is clicked
+2019-12-30 02:39:30 HomePageTest [INFO]  name: email] is populated with snigdha98.3@gmail.com
+2019-12-30 02:39:30 HomePageTest [INFO]  name: password] is populated with XiomiMi@1
+2019-12-30 02:39:30 HomePageTest [INFO]  xpath: //div[@class='ui fluid large blue submit button']] is clicked
+2019-12-30 02:39:59 NewContactPageTest [INFO]  xpath: //span[contains(text(),'Log In')]] is clicked
+2019-12-30 02:39:59 NewContactPageTest [INFO]  name: email] is populated with snigdha98.3@gmail.com
+2019-12-30 02:40:00 NewContactPageTest [INFO]  name: password] is populated with XiomiMi@1
+2019-12-30 02:40:00 NewContactPageTest [INFO]  xpath: //div[@class='ui fluid large blue submit button']] is clicked
+2019-12-30 02:40:03 NewContactPageTest [INFO]  xpath: //div[@id='main-nav']//span] is clicked
+2019-12-30 02:40:04 NewContactPageTest [INFO]  xpath: //button[text()='New']] is clicked
+2019-12-30 02:40:09 NewContactPageTest [INFO]  name: first_name] is populated with Will
+2019-12-30 02:40:09 NewContactPageTest [INFO]  name: last_name] is populated with Smith
+2019-12-30 02:40:09 NewContactPageTest [INFO]  xpath: //input[@placeholder='Email address']] is clicked
+2019-12-30 02:40:11 NewContactPageTest [INFO]  xpath: //input[@placeholder='Email address']] is populated with Will.Smith@yahoo.com
+2019-12-30 02:40:12 NewContactPageTest [INFO]  css selector: .ui.linkedin.button] is clicked
+2019-12-30 02:40:12 NewContactPageTest [INFO]  css selector: .ui.linkedin.button] is clicked
+2019-12-30 02:40:13 NewContactPageTest [INFO]  xpath: //div[@id='main-nav']//span] is clicked
+2019-12-30 02:40:55 LoginTest [INFO]  xpath: //span[contains(text(),'Log In')]] is clicked
+2019-12-30 02:40:55 LoginTest [INFO]  name: email] is populated with snigdha98.3@gmail.com
+2019-12-30 02:40:56 LoginTest [INFO]  name: password] is populated with XiomiMi@1
+2019-12-30 02:40:56 LoginTest [INFO]  xpath: //div[@class='ui fluid large blue submit button']] is clicked
